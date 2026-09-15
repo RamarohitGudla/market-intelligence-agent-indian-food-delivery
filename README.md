@@ -158,3 +158,10 @@ This project demonstrates an end-to-end market intelligence workflow using Amazo
 It combines a structured Food Delivery dataset with external market research to generate evidence-based insights, evaluate their reliability, identify opportunities and risks, and produce a leadership-ready Market Intelligence Brief.
 
 The project provides a practical example of how an AI-assisted market intelligence workflow can support structured business analysis and strategic decision-making.
+
+## 👨‍💻 Project
+
+**Market Intelligence Agent – Indian Food Delivery**
+
+**Platform:** Amazon Quick  
+**Program:** AWS AI & ML Nanodegree
