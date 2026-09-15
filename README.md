@@ -159,9 +159,9 @@ It combines a structured Food Delivery dataset with external market research to 
 
 The project provides a practical example of how an AI-assisted market intelligence workflow can support structured business analysis and strategic decision-making.
 
-## 👨‍💻 Project
+##  Project
 
 **Market Intelligence Agent – Indian Food Delivery**
 
 **Platform:** Amazon Quick  
-**Program:** AWS AI & ML Nanodegree
+**Program:** Future AWS Agentic AI Business Professional Nanodegree
